@@ -1,2 +1,2 @@
 print ("WELCOME TO SHANGHAI")
-print ("WELCOME TO QIDAO")
+print ("WELCOME TO QINGDAO")
